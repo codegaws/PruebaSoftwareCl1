@@ -59,7 +59,6 @@ public class HotelReservation {
         }
     }
 
-
     public String makeReservation() {
         return "El registro ha sido exitoso";
     }
